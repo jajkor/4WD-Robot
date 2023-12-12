@@ -1,3 +1,6 @@
-# Robot Package
+https://img.shields.io/badge/license-MIT-blue
 
-This is a simple robot package.
+# 4WD Robot
+
+A simple four wheel drive robot
+
