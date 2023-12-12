@@ -1,4 +1,4 @@
-<img src=""></img>
+![20231206_102644](https://github.com/jajkor/4WD-Robot/assets/97195875/8f8a64f6-2617-4450-83a5-b9dd52f76100)
 
 <p align="center">A simple four wheel-drive robot written in Python</p>
 
