@@ -3,7 +3,7 @@
 <p align="center">A simple four wheel-drive robot written in Python</p>
 
 <p align="center">
-<a href="[LICENSE.md](https://github.com/jajkor/4WD-Robot/blob/main/LICENSE)"><img src=https://img.shields.io/badge/license-MIT-blue>
+<a href="https://github.com/jajkor/4WD-Robot/blob/main/LICENSE"><img src=https://img.shields.io/badge/license-MIT-blue>
 <a href="https://github.com/jajkor/4WD-Robot/releases"><img src=https://img.shields.io/badge/release-v1.0.0-green>
 </p>
 
